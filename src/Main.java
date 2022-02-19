@@ -13,7 +13,7 @@ public class Main {
     NumberOfUnits obj4 = new NumberOfUnits();
     System.out.println(obj4.NOU());
 
-    System.out.println("Запуск функции вывода нечетных чисел, далее потребуется ввести числа для выявления нечетных, для завершения введите 0");
+    System.out.println("Загрузка функции вывода нечетных чисел, далее потребуется ввести числа для выявления нечетных, для завершения введите 0");
     OddOutput obj3 = new OddOutput();
     obj3.Odds();
     }
